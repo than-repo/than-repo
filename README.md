@@ -80,7 +80,7 @@ Computer Science / Software Engineering
 
 - **📧 Email:** [monnkkey2004@gmail.com]
 - **📘 Facebook:** [https://www.facebook.com/tung.than.ezlove]
-- **💻 GitHub:** [https://github.com/CODEeminelike](https://github.com/CODEeminelike)
+- **💻 GitHub:** [[https://github.com/CODEeminelike]((https://github.com/than-repo))](https://github.com/than-repo)
 
 ---
 
