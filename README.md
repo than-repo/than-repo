@@ -51,10 +51,10 @@ Computer Science / Software Engineering
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 *Modern UI component library and design system built with Tailwind CSS*
 
-### **🏪 eLearning Web System Project** - [View Repository](https://github.com/CODEeminelike/learning-oop)
-![JSP](https://img.shields.io/badge/JSP-Servlet-orange?style=for-the-badge&logo=java)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-*Traditional Java web application using JSP/Servlet for e-commerce functionality*
+### **🏪 ELearning Web System Project** - [View Repository](https://github.com/than-repo/elearning-it)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+*Modern e-learning platform built with Next.js for server-side rendering and Tailwind CSS for responsive, utility-first styling*
 
 
 ## 🌟 Currently Learning & Exploring
